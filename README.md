@@ -1,7 +1,7 @@
 # CV
 
 Prosjekter som følger med CV. Disse og flere andre blir lastet opp her.
-
+<pre>
 +---------+--------------+-------------------------------------------------------+
 |  Språk  |     Type     |                      Beskrivelse                      |
 +---------+--------------+-------------------------------------------------------+
@@ -26,3 +26,4 @@ Prosjekter som følger med CV. Disse og flere andre blir lastet opp her.
 | Python  | Maskinlæring | Flere ulike Supervised Learning algoritmer testet     |
 |         |              | og dokumentert for siffergjenkjenning på MNIST data.  |
 +---------+--------------+-------------------------------------------------------+
+</pre>
