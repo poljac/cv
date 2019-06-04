@@ -1,7 +1,8 @@
 # CV
 
 Prosjekter som følger med CV. Disse og flere andre blir lastet opp her.
-<pre>
+<h3 style="font-size:100% !important;">
+<pre style="font-size:100% !important;">
 +---------+--------------+-------------------------------------------------------+
 |  Språk  |     Type     |                      Beskrivelse                      |
 +---------+--------------+-------------------------------------------------------+
